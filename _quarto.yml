@@ -39,6 +39,7 @@ website:
           - quarto-workflows/browser.md
           - quarto-workflows/rstudio.qmd
           - quarto-workflows/jupyter.md 
+          - cesm_gmst_ncar.ipynb
       - learning-more.qmd
       - href: transition-from-rmarkdown.qmd
         text: Transition from Rmd
