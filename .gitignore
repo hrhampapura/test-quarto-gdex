@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-
+.ipynb_checkpoints/
 /.quarto/
 *_cache/
 /_site/
